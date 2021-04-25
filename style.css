@@ -1,0 +1,22 @@
+
+body{
+    background-image: url('https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+}
+.line{
+    text-decoration-line: line-through;
+}
+.liclass{
+    display: flex;
+    justify-content: center;
+    margin:40px;
+    list-style: none;
+}
+.divinli{
+    background-color: rgb(77, 212, 36);
+    padding: 10px;
+    width:200px ;
+    height: 50px;
+}
+.divindiv{
+    text-align: center;
+}
