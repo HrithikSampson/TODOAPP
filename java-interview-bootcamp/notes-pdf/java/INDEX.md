@@ -4,6 +4,7 @@
 - [2. How Java program works](02-how-java-program-works.pdf)
 - [4. Primitive data types](04-primitive-data-types.pdf)
 - [6. Reference and Non Primitive data types](06-reference-and-non-primitive-data-types.pdf)
+- [6a. String and Scanner (hands-on)](06a-String-and-Scanner.md)
 - [7. Methods](07-methods.pdf)
 - [9. Memory Management and Garbage Collector](09-memory-management-and-garbage-collector.pdf)
 - [10. Classes](10-classes.pdf)
