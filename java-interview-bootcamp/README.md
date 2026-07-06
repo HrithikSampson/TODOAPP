@@ -73,16 +73,28 @@ python3 download_onenote_pdfs.py   # OneNote + Zoho notebook exports
 
 ### OneNote & Zoho notebooks (`notes-onenote/`)
 
-These were **not** in the first download — they are separate links from the same index:
+**All OneNote tabs/pages are now captured** — the script clicks every page in the sidebar and exports it.
 
-| Folder | What it is |
-|--------|------------|
-| `notes-onenote/spring-boot/` | Full Spring Boot OneNote notebook (all pages) |
-| `notes-onenote/junit/` | Full JUnit5 OneNote notebook |
-| `notes-onenote/java/` | Java modern features OneNote + Multithreading Zoho note |
-| `notes-onenote/microservices/` | Microservices OneNote (reference) |
+| Notebook | Pages captured |
+|----------|----------------|
+| Spring Boot OneNote | 24 pages |
+| JUnit5 OneNote | 17 pages |
+| Microservices OneNote | 24 pages |
+| Java Modern Features | 8 pages |
+| Event Driven Architecture | 17 pages |
 
-> OneNote exports are screenshot-based PDFs (OneNote web is interactive). Use the original link in `INDEX.md` to navigate pages inside the notebook.
+Each notebook has:
+- **Combined PDF** — e.g. `spring-boot/04-spring-boot-all-topics-onenote.pdf`
+- **Individual page PNGs** — e.g. `spring-boot/04-spring-boot-all-topics-onenote_pages/01-...png`
+- **Page list** — `pages.json` inside the `_pages` folder
+
+Re-export:
+```bash
+cd java-interview-bootcamp/notes-onenote
+pip install playwright pillow pypdf
+python3 -m playwright install chromium
+python3 download_onenote_pdfs.py
+```
 
 ---
 

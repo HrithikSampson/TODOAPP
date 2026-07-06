@@ -6,3 +6,6 @@ target/
 .settings/
 notes-pdf/download.log
 notes-onenote/download.log
+notes-onenote/download-full.log
+notes-onenote/**/.tmp_pdf/
+notes-onenote/**/__pycache__/

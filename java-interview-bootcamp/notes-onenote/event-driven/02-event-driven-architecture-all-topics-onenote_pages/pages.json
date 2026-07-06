@@ -1,0 +1,19 @@
+[
+  "1. Event Driven Architecture(Introduction)",
+  "2-6. Kafka Architecture (Part1-5)",
+  "7. Cluster Setup",
+  "8-9. Producer Setup",
+  "10. Idempotency",
+  "11. Consumer Setup - Part1",
+  "12. Consumer Setup - Part2",
+  "13. Consumer Setup: Exception handling",
+  "14. Consumer Setup - Part3 (Other configurations)",
+  "15: Transaction in kafka (Producer)",
+  "16: Transaction in kafka (Consumer)",
+  "17. Schema Registry",
+  "18. Outbox Pattern",
+  "Need for Kafka Stream (KStream)",
+  "Kafka Stream Architecture",
+  "Kafka Stream: KStream, KTable, GlobalKTable",
+  "Kafka Stream: SerDes (Serializer Deserializer)"
+]

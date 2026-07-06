@@ -1,0 +1,19 @@
+[
+  "1. Unit Testing Introduction",
+  "2. Junit5 Architecture",
+  "3. Test Case: Lifecycle, Parallel execution and AAA pattern",
+  "4. JUnit5 Assertions",
+  "5. Extension",
+  "6. Repeated Test",
+  "7-8. Parameterised Tests",
+  "9. Assumptions",
+  "10. Tagging and Filtering",
+  "11. Test Suite",
+  "12. DynamicTest (@TestFactory)",
+  "13. Mocking vs Stubbing vs Spy",
+  "14. Mockito Internals",
+  "15. @Mock, @InjectMocks (Junit & Mockito Integration)",
+  "16. @Mock as Method/Constructor Parameter",
+  "17. Stubbing Behavior",
+  "18. Mockito Verification"
+]
