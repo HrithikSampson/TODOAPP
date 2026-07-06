@@ -27,18 +27,43 @@ mvn test                     # run all tests
 
 ```
 java-interview-bootcamp/
+├── README.md                        ← you are here (12 topics)
+├── notes-pdf/                       ← extracted study PDFs (146 files)
+│   ├── INDEX.md                     ← master index by category
+│   ├── java/                        ← 34 PDFs (Topics 1–6)
+│   ├── spring-boot/                 ← 20 PDFs (Topics 7–11)
+│   ├── junit/                       ← 15 PDFs (Topic 12)
+│   ├── microservices/               ← reference only (skipped)
+│   ├── lld/                         ← reference only (skipped)
+│   ├── hld/                         ← reference only (skipped)
+│   └── event-driven/                ← reference only (skipped)
 ├── pom.xml                          ← Maven config
 ├── src/main/java/com/bootcamp/
 │   ├── playground/                  ← small Java exercises (Topics 1–6)
 │   └── library/                   ← full Spring app (Topics 7–12)
-│       ├── LibraryApplication.java
-│       ├── model/                   ← entities
-│       ├── dto/                     ← request/response records
-│       ├── repository/              ← JPA interfaces
-│       ├── service/                 ← business logic
-│       ├── controller/              ← REST endpoints
-│       └── exception/               ← error handling
 └── src/test/java/                   ← JUnit tests
+```
+
+## Study PDFs (extracted from your Drive link)
+
+All PDFs from the original index are in **`notes-pdf/`**, organized by category.
+
+| Bootcamp topic | Read these PDFs |
+|----------------|-----------------|
+| Topic 1–2 (Basics, OOP) | `notes-pdf/java/01-oops-concept.pdf`, `02-how-java-program-works.pdf` |
+| Topic 3 (Interfaces) | `notes-pdf/java/14-interfaces.pdf` |
+| Topic 4 (Collections) | `notes-pdf/java/22-collections-part-1-framework.pdf`, `28-collections-part-7-streams.pdf` |
+| Topic 5 (Modern Java) | `notes-pdf/java/41-sealed-classes-and-interfaces-java-17.pdf`, `45-record-class-java-16.pdf` |
+| Topic 6 (Exceptions) | `notes-pdf/java/19-exception-handling.pdf` |
+| Topic 7 (Maven) | `notes-pdf/spring-boot/03-maven-and-its-lifecycle.pdf` |
+| Topic 8–11 (Spring) | `notes-pdf/spring-boot/` folder |
+| Topic 12 (JUnit) | `notes-pdf/junit/` folder |
+
+Re-download PDFs anytime:
+```bash
+cd java-interview-bootcamp/notes-pdf
+python3 build_index.py
+python3 download_pdfs.py
 ```
 
 ---

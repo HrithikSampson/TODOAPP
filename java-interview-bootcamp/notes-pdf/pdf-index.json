@@ -1,0 +1,1024 @@
+[
+  {
+    "category": "microservices",
+    "num": 1,
+    "title": "RestTemplate",
+    "file_id": "1tFNmDMauszX3K8wcAxBaVAX3FidyEfei",
+    "url": "https://drive.google.com/file/d/1tFNmDMauszX3K8wcAxBaVAX3FidyEfei"
+  },
+  {
+    "category": "microservices",
+    "num": 2,
+    "title": "RestClient",
+    "file_id": "1a2Yx3g99nXUw1UlvreHcBJj04ktMBhcD",
+    "url": "https://drive.google.com/file/d/1a2Yx3g99nXUw1UlvreHcBJj04ktMBhcD"
+  },
+  {
+    "category": "microservices",
+    "num": 3,
+    "title": "FeignClient",
+    "file_id": "1xev4wWJ1dceBUi7l77z2KgTx_YZDbfg1",
+    "url": "https://drive.google.com/file/d/1xev4wWJ1dceBUi7l77z2KgTx_YZDbfg1"
+  },
+  {
+    "category": "microservices",
+    "num": 4,
+    "title": "ServiceDiscovery",
+    "file_id": "11DAZgXFoArZ17xVLhkIxTYQtUYAJNnr-",
+    "url": "https://drive.google.com/file/d/11DAZgXFoArZ17xVLhkIxTYQtUYAJNnr-"
+  },
+  {
+    "category": "microservices",
+    "num": 5,
+    "title": "Client Side Load Balancer",
+    "file_id": "1uERH11qv6xWBvwHc0BoOJlnn89IzWt95",
+    "url": "https://drive.google.com/file/d/1uERH11qv6xWBvwHc0BoOJlnn89IzWt95"
+  },
+  {
+    "category": "microservices",
+    "num": 6,
+    "title": "Rate Limiter",
+    "file_id": "1EwfhhSiBNJw87tqvoaseW5ZKUKB-YJDx",
+    "url": "https://drive.google.com/file/d/1EwfhhSiBNJw87tqvoaseW5ZKUKB-YJDx"
+  },
+  {
+    "category": "microservices",
+    "num": 7,
+    "title": "Bulkhead",
+    "file_id": "1CSXu3bNRsvwhsvIr2EdTkbyP7fUHQMt7",
+    "url": "https://drive.google.com/file/d/1CSXu3bNRsvwhsvIr2EdTkbyP7fUHQMt7"
+  },
+  {
+    "category": "microservices",
+    "num": 8,
+    "title": "Retry",
+    "file_id": "1F4e2EwjCfi11-q7RdujOqiPgt7oCbO7B",
+    "url": "https://drive.google.com/file/d/1F4e2EwjCfi11-q7RdujOqiPgt7oCbO7B"
+  },
+  {
+    "category": "microservices",
+    "num": 9,
+    "title": "Circuit Breaker",
+    "file_id": "1ApUVMYBXzsEiW_tCL_ZpfX0IGKZQ2IZe",
+    "url": "https://drive.google.com/file/d/1ApUVMYBXzsEiW_tCL_ZpfX0IGKZQ2IZe"
+  },
+  {
+    "category": "microservices",
+    "num": 10,
+    "title": "Api Gateway Part1",
+    "file_id": "1CbIz2ZgwcinR0y69Q7O-MRSgWgu-b-Ze",
+    "url": "https://drive.google.com/file/d/1CbIz2ZgwcinR0y69Q7O-MRSgWgu-b-Ze"
+  },
+  {
+    "category": "microservices",
+    "num": 11,
+    "title": "Api Gateway Part2",
+    "file_id": "14bbYUgLn3q5CXVKL90pMYb9TbAuu0GKd",
+    "url": "https://drive.google.com/file/d/14bbYUgLn3q5CXVKL90pMYb9TbAuu0GKd"
+  },
+  {
+    "category": "microservices",
+    "num": 12,
+    "title": "Centralized Configuration",
+    "file_id": "1jyj0NGktH3DEA6dQr2ziAVQk0PwaS3S9",
+    "url": "https://drive.google.com/file/d/1jyj0NGktH3DEA6dQr2ziAVQk0PwaS3S9"
+  },
+  {
+    "category": "microservices",
+    "num": 13,
+    "title": "Refresh Scope",
+    "file_id": "1Yb-qJjcNWHNtIZ7QaZxgKdHNoty9i-1F",
+    "url": "https://drive.google.com/file/d/1Yb-qJjcNWHNtIZ7QaZxgKdHNoty9i-1F"
+  },
+  {
+    "category": "microservices",
+    "num": 14,
+    "title": "Cloud Bus",
+    "file_id": "1Byww5BZPKMRqwHLgMJnx7_CczEHNDcFi",
+    "url": "https://drive.google.com/file/d/1Byww5BZPKMRqwHLgMJnx7_CczEHNDcFi"
+  },
+  {
+    "category": "microservices",
+    "num": 15,
+    "title": "Distributed Tracing",
+    "file_id": "10ngkU6IzaZ_htyX3g1oSZ2e9FnwRrRJQ",
+    "url": "https://drive.google.com/file/d/10ngkU6IzaZ_htyX3g1oSZ2e9FnwRrRJQ"
+  },
+  {
+    "category": "microservices",
+    "num": 16,
+    "title": "Distributed Logging Part1",
+    "file_id": "1A9UfCSivJt8MS6opPfxZc3CvkxodXajk",
+    "url": "https://drive.google.com/file/d/1A9UfCSivJt8MS6opPfxZc3CvkxodXajk"
+  },
+  {
+    "category": "microservices",
+    "num": 17,
+    "title": "Distributed Logging Part2",
+    "file_id": "1Np9DxNIssaTBarQuyPjz87e5T9-8sVwQ",
+    "url": "https://drive.google.com/file/d/1Np9DxNIssaTBarQuyPjz87e5T9-8sVwQ"
+  },
+  {
+    "category": "microservices",
+    "num": 18,
+    "title": "Distributed Logging Part3",
+    "file_id": "1KOl9X0M1RfhUEUW5gwOB2M93dH0yH89P",
+    "url": "https://drive.google.com/file/d/1KOl9X0M1RfhUEUW5gwOB2M93dH0yH89P"
+  },
+  {
+    "category": "microservices",
+    "num": 19,
+    "title": "Distributed Logging Part4",
+    "file_id": "1NbsMDboh1pVvYffURP4zy2dO3HoFaE9U",
+    "url": "https://drive.google.com/file/d/1NbsMDboh1pVvYffURP4zy2dO3HoFaE9U"
+  },
+  {
+    "category": "microservices",
+    "num": 20,
+    "title": "Distributed Scheduler Part1(Leader-Follower)",
+    "file_id": "1Uc1VRhyPYeqLSAzuSFIdWBVsLwwtLIwp",
+    "url": "https://drive.google.com/file/d/1Uc1VRhyPYeqLSAzuSFIdWBVsLwwtLIwp"
+  },
+  {
+    "category": "microservices",
+    "num": 21,
+    "title": "Distributed Scheduler Part2",
+    "file_id": "1skz-q6DSH7_UCpaJ5gcuJR7aznGNOOkJ",
+    "url": "https://drive.google.com/file/d/1skz-q6DSH7_UCpaJ5gcuJR7aznGNOOkJ"
+  },
+  {
+    "category": "microservices",
+    "num": 22,
+    "title": "Distributed Scheduler Part3",
+    "file_id": "1-Js_ki_mWgCWyJWzmBP3dVMWy0XU-EcF",
+    "url": "https://drive.google.com/file/d/1-Js_ki_mWgCWyJWzmBP3dVMWy0XU-EcF"
+  },
+  {
+    "category": "event-driven",
+    "num": 1,
+    "title": "What is EDA",
+    "file_id": "1Q3L1RCfAeXOqp59Th_M5H1HCqqWJovdU",
+    "url": "https://drive.google.com/file/d/1Q3L1RCfAeXOqp59Th_M5H1HCqqWJovdU"
+  },
+  {
+    "category": "event-driven",
+    "num": 10,
+    "title": "Producer Idempotency",
+    "file_id": "1WYJxIBJlM_e7Xu6rqcn8p7ixKNJk2PjC",
+    "url": "https://drive.google.com/file/d/1WYJxIBJlM_e7Xu6rqcn8p7ixKNJk2PjC"
+  },
+  {
+    "category": "event-driven",
+    "num": 11,
+    "title": "Consumer Setup (Part-1)",
+    "file_id": "1YzUepxvY2NiR7oR8H38iHTE1XpUtJ34x",
+    "url": "https://drive.google.com/file/d/1YzUepxvY2NiR7oR8H38iHTE1XpUtJ34x"
+  },
+  {
+    "category": "event-driven",
+    "num": 12,
+    "title": "Consumer Setup (Part-2)",
+    "file_id": "1S8Yx3WDjm3uQ1_s0hWfUPyZl7xBAE65T",
+    "url": "https://drive.google.com/file/d/1S8Yx3WDjm3uQ1_s0hWfUPyZl7xBAE65T"
+  },
+  {
+    "category": "event-driven",
+    "num": 15,
+    "title": "Producer Transaction",
+    "file_id": "1JuYwCd4RKndL8MyTPgpkKZm1HpoCUz4k",
+    "url": "https://drive.google.com/file/d/1JuYwCd4RKndL8MyTPgpkKZm1HpoCUz4k"
+  },
+  {
+    "category": "event-driven",
+    "num": 16,
+    "title": "Consumer Transaction",
+    "file_id": "1QsZ4zi9ZxdpcdlZdDjTolGGSa7ynxwqX",
+    "url": "https://drive.google.com/file/d/1QsZ4zi9ZxdpcdlZdDjTolGGSa7ynxwqX"
+  },
+  {
+    "category": "junit",
+    "num": 1,
+    "title": "Unit Test Introduction",
+    "file_id": "10lTNGehyQgCYqYnnmyVNfBbtXHwtSFdn",
+    "url": "https://drive.google.com/file/d/10lTNGehyQgCYqYnnmyVNfBbtXHwtSFdn"
+  },
+  {
+    "category": "junit",
+    "num": 2,
+    "title": "Architecture",
+    "file_id": "1kkRHpzmraD1iWItaw7sgbydd_5VPsQBJ",
+    "url": "https://drive.google.com/file/d/1kkRHpzmraD1iWItaw7sgbydd_5VPsQBJ"
+  },
+  {
+    "category": "junit",
+    "num": 3,
+    "title": "Lifecycle, Parallel Execution & AAA",
+    "file_id": "1XT_j4OricSbhn3nXvrFMGeHcy7bo-SmQ",
+    "url": "https://drive.google.com/file/d/1XT_j4OricSbhn3nXvrFMGeHcy7bo-SmQ"
+  },
+  {
+    "category": "junit",
+    "num": 4,
+    "title": "Assertions",
+    "file_id": "1TXqNgJog6f4rSCu9ouXA_eN8dx3_n5Gq",
+    "url": "https://drive.google.com/file/d/1TXqNgJog6f4rSCu9ouXA_eN8dx3_n5Gq"
+  },
+  {
+    "category": "junit",
+    "num": 5,
+    "title": "Extensions",
+    "file_id": "1UyOlUshyZUfIZzGaGVCQ7WhJQHTkG4Zz",
+    "url": "https://drive.google.com/file/d/1UyOlUshyZUfIZzGaGVCQ7WhJQHTkG4Zz"
+  },
+  {
+    "category": "junit",
+    "num": 6,
+    "title": "Repeated Tests",
+    "file_id": "1FVujWepZGk5WrddsUbkOfa54z3dAJbAs",
+    "url": "https://drive.google.com/file/d/1FVujWepZGk5WrddsUbkOfa54z3dAJbAs"
+  },
+  {
+    "category": "junit",
+    "num": 8,
+    "title": "Parametrized Test (Part2)",
+    "file_id": "1QDxSwXpfJSwQ9B7j3VLrjV0-gR17pFBz",
+    "url": "https://drive.google.com/file/d/1QDxSwXpfJSwQ9B7j3VLrjV0-gR17pFBz"
+  },
+  {
+    "category": "junit",
+    "num": 9,
+    "title": "Assumptions",
+    "file_id": "1ck01D8nSeDWNUj32a3Lj4hDZtSmVSl24",
+    "url": "https://drive.google.com/file/d/1ck01D8nSeDWNUj32a3Lj4hDZtSmVSl24"
+  },
+  {
+    "category": "junit",
+    "num": 10,
+    "title": "Tagging and Filtering",
+    "file_id": "15I8fPVOCIrsxRZW2QwZpqXC_snLBQEk8",
+    "url": "https://drive.google.com/file/d/15I8fPVOCIrsxRZW2QwZpqXC_snLBQEk8"
+  },
+  {
+    "category": "junit",
+    "num": 12,
+    "title": "Dynamic Tests (@TestFactory)",
+    "file_id": "1SyAeshZXWFajeHMhCpaCLkQBe5ZXEMbD",
+    "url": "https://drive.google.com/file/d/1SyAeshZXWFajeHMhCpaCLkQBe5ZXEMbD"
+  },
+  {
+    "category": "junit",
+    "num": 14,
+    "title": "Architecture",
+    "file_id": "1VDBBdNLASIU3t7eOBUKlFQVw1u7X5K7g",
+    "url": "https://drive.google.com/file/d/1VDBBdNLASIU3t7eOBUKlFQVw1u7X5K7g"
+  },
+  {
+    "category": "junit",
+    "num": 15,
+    "title": "@InjectMocks",
+    "file_id": "1pMtHVtTptpe6I4_1u837QIjqkRzytOov",
+    "url": "https://drive.google.com/file/d/1pMtHVtTptpe6I4_1u837QIjqkRzytOov"
+  },
+  {
+    "category": "junit",
+    "num": 16,
+    "title": "@Mock in Constructor and Method Parameter",
+    "file_id": "13fWzPthTNPzXLfMgMBqr-Jux_EkNxu42",
+    "url": "https://drive.google.com/file/d/13fWzPthTNPzXLfMgMBqr-Jux_EkNxu42"
+  },
+  {
+    "category": "junit",
+    "num": 17,
+    "title": "Stubbing",
+    "file_id": "1T3kLQQCpHPu7YidNb8h38JaVW3UZ7ht7",
+    "url": "https://drive.google.com/file/d/1T3kLQQCpHPu7YidNb8h38JaVW3UZ7ht7"
+  },
+  {
+    "category": "junit",
+    "num": 18,
+    "title": "Verifying",
+    "file_id": "1cblfLMGfUCM5_7p4qYxZ1uAeiVWZ615O",
+    "url": "https://drive.google.com/file/d/1cblfLMGfUCM5_7p4qYxZ1uAeiVWZ615O"
+  },
+  {
+    "category": "lld",
+    "num": 2,
+    "title": "Strategy pattern",
+    "file_id": "1smTeCvuc9aQwZS7gd-vxPs75wezuYAFp",
+    "url": "https://drive.google.com/file/d/1smTeCvuc9aQwZS7gd-vxPs75wezuYAFp"
+  },
+  {
+    "category": "lld",
+    "num": 3,
+    "title": "Observer pattern",
+    "file_id": "1l3T-TsuhWyQx8us5lxeh-bt4KR_8tr9w",
+    "url": "https://drive.google.com/file/d/1l3T-TsuhWyQx8us5lxeh-bt4KR_8tr9w"
+  },
+  {
+    "category": "lld",
+    "num": 4,
+    "title": "Decorator Pattern",
+    "file_id": "19W73JBOtOtOzIHmKBA-4ACqCXwv60pB0",
+    "url": "https://drive.google.com/file/d/19W73JBOtOtOzIHmKBA-4ACqCXwv60pB0"
+  },
+  {
+    "category": "lld",
+    "num": 6,
+    "title": "Parking Lot",
+    "file_id": "1aE9QhlRZgtUDI-p_2NiPdVWaq3eP-Mn7",
+    "url": "https://drive.google.com/file/d/1aE9QhlRZgtUDI-p_2NiPdVWaq3eP-Mn7"
+  },
+  {
+    "category": "lld",
+    "num": 7,
+    "title": "Design Tic Tac Toe game",
+    "file_id": "1JgTipI2hutFrd3YxDpE8L2KukIr0VC7H",
+    "url": "https://drive.google.com/file/d/1JgTipI2hutFrd3YxDpE8L2KukIr0VC7H"
+  },
+  {
+    "category": "lld",
+    "num": 8,
+    "title": "Elevator System",
+    "file_id": "1MGudMSiJj2JMC75qq3o34gW2Kz-UAYPl",
+    "url": "https://drive.google.com/file/d/1MGudMSiJj2JMC75qq3o34gW2Kz-UAYPl"
+  },
+  {
+    "category": "lld",
+    "num": 9,
+    "title": "LLD of Car Rental System",
+    "file_id": "1QR51mRs_1cM7Cq5aDlPLKAvrjHMtLiU0",
+    "url": "https://drive.google.com/file/d/1QR51mRs_1cM7Cq5aDlPLKAvrjHMtLiU0"
+  },
+  {
+    "category": "lld",
+    "num": 10,
+    "title": "Chain of Responsibility",
+    "file_id": "1niWAA5Vy3gC8i6xU96igcYVR_ygZmboT",
+    "url": "https://drive.google.com/file/d/1niWAA5Vy3gC8i6xU96igcYVR_ygZmboT"
+  },
+  {
+    "category": "lld",
+    "num": 11,
+    "title": "LLD of Snake and Ladder game",
+    "file_id": "1cGyGGWOrp_b4Jm2xHFlI_FitPivDHgiN",
+    "url": "https://drive.google.com/file/d/1cGyGGWOrp_b4Jm2xHFlI_FitPivDHgiN"
+  },
+  {
+    "category": "lld",
+    "num": 13,
+    "title": "Proxy Design Pattern",
+    "file_id": "1S0fRkyGAmhGupC02Xqi6YEfMmeaBxi_K",
+    "url": "https://drive.google.com/file/d/1S0fRkyGAmhGupC02Xqi6YEfMmeaBxi_K"
+  },
+  {
+    "category": "lld",
+    "num": 14,
+    "title": "LLD of BookMyShow",
+    "file_id": "1XbWo8m1hOOdKGww0UO1x3zIskdQjqf2i",
+    "url": "https://drive.google.com/file/d/1XbWo8m1hOOdKGww0UO1x3zIskdQjqf2i"
+  },
+  {
+    "category": "lld",
+    "num": 15,
+    "title": "Null Object Pattern",
+    "file_id": "1LUQFI4vDRn6mAsgmDMVCO4lmOXX50dDc",
+    "url": "https://drive.google.com/file/d/1LUQFI4vDRn6mAsgmDMVCO4lmOXX50dDc"
+  },
+  {
+    "category": "lld",
+    "num": 16,
+    "title": "Design Vending Machine",
+    "file_id": "1FDEdh2xhvlZpftC_392pml9h2lcl_q3A",
+    "url": "https://drive.google.com/file/d/1FDEdh2xhvlZpftC_392pml9h2lcl_q3A"
+  },
+  {
+    "category": "lld",
+    "num": 19,
+    "title": "Design File System using Composite Design Pattern",
+    "file_id": "1FIBgNSJY-YkZYJO7WIKsY_io6tVIBkCa",
+    "url": "https://drive.google.com/file/d/1FIBgNSJY-YkZYJO7WIKsY_io6tVIBkCa"
+  },
+  {
+    "category": "lld",
+    "num": 20,
+    "title": "Adapter Design Pattern with Examples",
+    "file_id": "1BKx6HITzyw-c1RjX4372aH_L4b1-5S1w",
+    "url": "https://drive.google.com/file/d/1BKx6HITzyw-c1RjX4372aH_L4b1-5S1w"
+  },
+  {
+    "category": "lld",
+    "num": 23,
+    "title": "Builder Design Pattern",
+    "file_id": "1V5qnfvYpNiEzb3bu9221HMD8QDaTkVC9",
+    "url": "https://drive.google.com/file/d/1V5qnfvYpNiEzb3bu9221HMD8QDaTkVC9"
+  },
+  {
+    "category": "lld",
+    "num": 25,
+    "title": "Facade design pattern",
+    "file_id": "1YpWHwZmOFIlFd-ftign3jtZWhOWEjwy0",
+    "url": "https://drive.google.com/file/d/1YpWHwZmOFIlFd-ftign3jtZWhOWEjwy0"
+  },
+  {
+    "category": "lld",
+    "num": 26,
+    "title": "Bridge design pattern",
+    "file_id": "1byU7bYbjdkhIFU2je3Ck8IqjrFZvrRkr",
+    "url": "https://drive.google.com/file/d/1byU7bYbjdkhIFU2je3Ck8IqjrFZvrRkr"
+  },
+  {
+    "category": "lld",
+    "num": 28,
+    "title": "Singleton",
+    "file_id": "1P_ptiVovd0ERLtMqVbgJVd9r5mYme-k_",
+    "url": "https://drive.google.com/file/d/1P_ptiVovd0ERLtMqVbgJVd9r5mYme-k_"
+  },
+  {
+    "category": "lld",
+    "num": 30,
+    "title": "Design Word Processor using Flyweight Design Pattern",
+    "file_id": "1oCmas08vpcpiEMqYkIYEvjkNWIQ9lDGm",
+    "url": "https://drive.google.com/file/d/1oCmas08vpcpiEMqYkIYEvjkNWIQ9lDGm"
+  },
+  {
+    "category": "lld",
+    "num": 31,
+    "title": "Design Undo, Redo feature with Command Pattern",
+    "file_id": "183IjgJ6pQDHswDQiwWMazetTpdK6SWaV",
+    "url": "https://drive.google.com/file/d/183IjgJ6pQDHswDQiwWMazetTpdK6SWaV"
+  },
+  {
+    "category": "lld",
+    "num": 33,
+    "title": "Iterator Design Pattern",
+    "file_id": "1-AR6mJkZydatqHIxA58EreRzDt33_MqQ",
+    "url": "https://drive.google.com/file/d/1-AR6mJkZydatqHIxA58EreRzDt33_MqQ"
+  },
+  {
+    "category": "lld",
+    "num": 34,
+    "title": "Mediator Pattern",
+    "file_id": "1SVx1ZYrJ_nqdHQ6Uq390wSt1TMX5vPOU",
+    "url": "https://drive.google.com/file/d/1SVx1ZYrJ_nqdHQ6Uq390wSt1TMX5vPOU"
+  },
+  {
+    "category": "lld",
+    "num": 36,
+    "title": "Visitor Design Pattern",
+    "file_id": "1vX_USKxmI-wqOwsV3tMD4OGj6a-usJdn",
+    "url": "https://drive.google.com/file/d/1vX_USKxmI-wqOwsV3tMD4OGj6a-usJdn"
+  },
+  {
+    "category": "lld",
+    "num": 37,
+    "title": "MVC -",
+    "file_id": "1oKEaL_-2SnfeRIJUDzX7WNEOtqqcMTJ0",
+    "url": "https://drive.google.com/file/d/1oKEaL_-2SnfeRIJUDzX7WNEOtqqcMTJ0"
+  },
+  {
+    "category": "lld",
+    "num": 38,
+    "title": "Memento Design Pattern",
+    "file_id": "1hc0cbjPKURcsvlMMkfMsq4yFXisS9Z2b",
+    "url": "https://drive.google.com/file/d/1hc0cbjPKURcsvlMMkfMsq4yFXisS9Z2b"
+  },
+  {
+    "category": "lld",
+    "num": 39,
+    "title": "Template Method Design Pattern",
+    "file_id": "15qaWbbBxXeZD3uC_7jfVHwPZxxiAm-jV",
+    "url": "https://drive.google.com/file/d/15qaWbbBxXeZD3uC_7jfVHwPZxxiAm-jV"
+  },
+  {
+    "category": "lld",
+    "num": 41,
+    "title": "Interpreter Design Pattern",
+    "file_id": "1jnzOCqy1ICoPkI0d-N9HolZacVtlbeJD",
+    "url": "https://drive.google.com/file/d/1jnzOCqy1ICoPkI0d-N9HolZacVtlbeJD"
+  },
+  {
+    "category": "lld",
+    "num": 43,
+    "title": "Object Pool Design Pattern",
+    "file_id": "1NymzCEjJq7c_w1XQrjpt77xk-M1KrvWo",
+    "url": "https://drive.google.com/file/d/1NymzCEjJq7c_w1XQrjpt77xk-M1KrvWo"
+  },
+  {
+    "category": "spring-boot",
+    "num": 2,
+    "title": "Setup and Layered Architecture",
+    "file_id": "1R4N4COx9zqW733io4mL5NSZtlQGOvLJo",
+    "url": "https://drive.google.com/file/d/1R4N4COx9zqW733io4mL5NSZtlQGOvLJo"
+  },
+  {
+    "category": "spring-boot",
+    "num": 3,
+    "title": "Maven and its Lifecycle",
+    "file_id": "11bGdZiUqQy54wB8p8RjMZDzV_7VwzFn9",
+    "url": "https://drive.google.com/file/d/11bGdZiUqQy54wB8p8RjMZDzV_7VwzFn9"
+  },
+  {
+    "category": "spring-boot",
+    "num": 15,
+    "title": "Async Annotation (Part1)",
+    "file_id": "1gw3frdhMRJY47k9kji7sMellmtu4hfSQ",
+    "url": "https://drive.google.com/file/d/1gw3frdhMRJY47k9kji7sMellmtu4hfSQ"
+  },
+  {
+    "category": "spring-boot",
+    "num": 16,
+    "title": "Async Annotation (Part2)",
+    "file_id": "1fRT6PzpZcW2m2ZxvkLB-dAIGAh7QFIFX",
+    "url": "https://drive.google.com/file/d/1fRT6PzpZcW2m2ZxvkLB-dAIGAh7QFIFX"
+  },
+  {
+    "category": "spring-boot",
+    "num": 17,
+    "title": "Custom Interceptors",
+    "file_id": "1vrrz89rlN3Zdkndwi2WyWQ2rwkax0yFi",
+    "url": "https://drive.google.com/file/d/1vrrz89rlN3Zdkndwi2WyWQ2rwkax0yFi"
+  },
+  {
+    "category": "spring-boot",
+    "num": 18,
+    "title": "Filters vs Interceptors",
+    "file_id": "1mFhfPQ5NH7kl4hghdw02B-cGe4Eyzosa",
+    "url": "https://drive.google.com/file/d/1mFhfPQ5NH7kl4hghdw02B-cGe4Eyzosa"
+  },
+  {
+    "category": "spring-boot",
+    "num": 19,
+    "title": "HATEOS",
+    "file_id": "1Q2hAaaO3n-xKk6zR2VMf_ob_VGwHB24V",
+    "url": "https://drive.google.com/file/d/1Q2hAaaO3n-xKk6zR2VMf_ob_VGwHB24V"
+  },
+  {
+    "category": "spring-boot",
+    "num": 20,
+    "title": "Response Entity and Response Codes",
+    "file_id": "14R3BOVfHs2rP9wyPKVAk9WcEaksVZnI5",
+    "url": "https://drive.google.com/file/d/14R3BOVfHs2rP9wyPKVAk9WcEaksVZnI5"
+  },
+  {
+    "category": "spring-boot",
+    "num": 23,
+    "title": "JPA(Part2) Setup and JPA Architecture ->",
+    "file_id": "1BlVZJak3YDyYQ63pvhaF5C4LqRoZDCQM",
+    "url": "https://drive.google.com/file/d/1BlVZJak3YDyYQ63pvhaF5C4LqRoZDCQM"
+  },
+  {
+    "category": "spring-boot",
+    "num": 27,
+    "title": "JPA(Part6) One to One ->",
+    "file_id": "1Vss45B7tJUKZCOGjirGR_gld56QYO6eL",
+    "url": "https://drive.google.com/file/d/1Vss45B7tJUKZCOGjirGR_gld56QYO6eL"
+  },
+  {
+    "category": "spring-boot",
+    "num": 31,
+    "title": "JPA (Part10): Specification API ->",
+    "file_id": "1mijhERCBLoUFFHfz_ZS1-o2t1EU7qCIo",
+    "url": "https://drive.google.com/file/d/1mijhERCBLoUFFHfz_ZS1-o2t1EU7qCIo"
+  },
+  {
+    "category": "spring-boot",
+    "num": 32,
+    "title": "Attacks ->",
+    "file_id": "1JINOQHR7j2B-R_9IaduT6wDn1MLpKfTX",
+    "url": "https://drive.google.com/file/d/1JINOQHR7j2B-R_9IaduT6wDn1MLpKfTX"
+  },
+  {
+    "category": "spring-boot",
+    "num": 33,
+    "title": "Security Part1, Set up and Architecture ->",
+    "file_id": "1mBC4cBF9CIoEhBEPJMQuNkymocGcvyJ6",
+    "url": "https://drive.google.com/file/d/1mBC4cBF9CIoEhBEPJMQuNkymocGcvyJ6"
+  },
+  {
+    "category": "spring-boot",
+    "num": 34,
+    "title": "Security Part2, Multiple User Creation ->",
+    "file_id": "1HKMoc-gPt8Sv05ePDcJmRg_XXA2_h1Ua",
+    "url": "https://drive.google.com/file/d/1HKMoc-gPt8Sv05ePDcJmRg_XXA2_h1Ua"
+  },
+  {
+    "category": "spring-boot",
+    "num": 36,
+    "title": "Security Part4, Basic Authentication ->",
+    "file_id": "17oyaGwIItZpsRyQsDjXwHr1WUuFcVUAe",
+    "url": "https://drive.google.com/file/d/17oyaGwIItZpsRyQsDjXwHr1WUuFcVUAe"
+  },
+  {
+    "category": "spring-boot",
+    "num": 38,
+    "title": "Security Part5 and Part6, JWT ->",
+    "file_id": "1Rbi5j7aA0JEt_ctzQLwQCUXFxQ0Y04vZ",
+    "url": "https://drive.google.com/file/d/1Rbi5j7aA0JEt_ctzQLwQCUXFxQ0Y04vZ"
+  },
+  {
+    "category": "spring-boot",
+    "num": 40,
+    "title": "Security Part7 and Part8, OAuth ->",
+    "file_id": "1KyVQvaGbSFeMAl9cVgY27Zwgy68UevSn",
+    "url": "https://drive.google.com/file/d/1KyVQvaGbSFeMAl9cVgY27Zwgy68UevSn"
+  },
+  {
+    "category": "spring-boot",
+    "num": 41,
+    "title": "Security Part9, Method Security ->",
+    "file_id": "1ip1EDOlGBGJWtD1wGHro1P7OLbnhXIPR",
+    "url": "https://drive.google.com/file/d/1ip1EDOlGBGJWtD1wGHro1P7OLbnhXIPR"
+  },
+  {
+    "category": "spring-boot",
+    "num": 42,
+    "title": "Actuator",
+    "file_id": "1cwQnr2E24hQlt9x-3yo5QiNb9wmk3Ldy",
+    "url": "https://drive.google.com/file/d/1cwQnr2E24hQlt9x-3yo5QiNb9wmk3Ldy"
+  },
+  {
+    "category": "spring-boot",
+    "num": 43,
+    "title": "ConfigurationProperties",
+    "file_id": "1b1u8atXsHyP_cNWyPFV7BP5G8ApI3VPs",
+    "url": "https://drive.google.com/file/d/1b1u8atXsHyP_cNWyPFV7BP5G8ApI3VPs"
+  },
+  {
+    "category": "java",
+    "num": 1,
+    "title": "OOPs Concept",
+    "file_id": "1eg_I2kdII2_KPtzGifky-YEvFcgaCX4H",
+    "url": "https://drive.google.com/file/d/1eg_I2kdII2_KPtzGifky-YEvFcgaCX4H"
+  },
+  {
+    "category": "java",
+    "num": 2,
+    "title": "How Java program works",
+    "file_id": "1orNECv5ucicgyhcC58tsQ10lTqj0Xc0K",
+    "url": "https://drive.google.com/file/d/1orNECv5ucicgyhcC58tsQ10lTqj0Xc0K"
+  },
+  {
+    "category": "java",
+    "num": 4,
+    "title": "Primitive data types",
+    "file_id": "1vWVJ9nAIbih0vier0XD-jFaUCujWuYnU",
+    "url": "https://drive.google.com/file/d/1vWVJ9nAIbih0vier0XD-jFaUCujWuYnU"
+  },
+  {
+    "category": "java",
+    "num": 6,
+    "title": "Reference and Non Primitive data types",
+    "file_id": "1y23GVqAKPxQ72ZAP1_uOsJW2XfnBDhX5",
+    "url": "https://drive.google.com/file/d/1y23GVqAKPxQ72ZAP1_uOsJW2XfnBDhX5"
+  },
+  {
+    "category": "java",
+    "num": 7,
+    "title": "Methods",
+    "file_id": "1KEMCFaA5phnL1qneiWPPsSeDGoRqFyWK",
+    "url": "https://drive.google.com/file/d/1KEMCFaA5phnL1qneiWPPsSeDGoRqFyWK"
+  },
+  {
+    "category": "java",
+    "num": 9,
+    "title": "Memory Management and Garbage Collector",
+    "file_id": "1VLbaVl69r9FlKw2q_nI4qS6mlGx1t9Js",
+    "url": "https://drive.google.com/file/d/1VLbaVl69r9FlKw2q_nI4qS6mlGx1t9Js"
+  },
+  {
+    "category": "java",
+    "num": 10,
+    "title": "Classes",
+    "file_id": "1eE5Pculcp0qem6tMPHDz9h-jhMclzGIt",
+    "url": "https://drive.google.com/file/d/1eE5Pculcp0qem6tMPHDz9h-jhMclzGIt"
+  },
+  {
+    "category": "java",
+    "num": 12,
+    "title": "Enum, POJO",
+    "file_id": "1MplD0GcXSgk1qCGQ7NFx4tWh8LDP_HtK",
+    "url": "https://drive.google.com/file/d/1MplD0GcXSgk1qCGQ7NFx4tWh8LDP_HtK"
+  },
+  {
+    "category": "java",
+    "num": 14,
+    "title": "Interfaces",
+    "file_id": "17tRa9KAj2RrAUbhAT_N8fBOT5BzU_PKb",
+    "url": "https://drive.google.com/file/d/17tRa9KAj2RrAUbhAT_N8fBOT5BzU_PKb"
+  },
+  {
+    "category": "java",
+    "num": 16,
+    "title": "Functional Interface and Lambda Expressions",
+    "file_id": "10-_r4_MUxosOGzjhw7Snv4NrGhOpoy5s",
+    "url": "https://drive.google.com/file/d/10-_r4_MUxosOGzjhw7Snv4NrGhOpoy5s"
+  },
+  {
+    "category": "java",
+    "num": 17,
+    "title": "Java Reflection",
+    "file_id": "1cxxPVU7NrOr_TChkIXE1C7khli31UlIf",
+    "url": "https://drive.google.com/file/d/1cxxPVU7NrOr_TChkIXE1C7khli31UlIf"
+  },
+  {
+    "category": "java",
+    "num": 18,
+    "title": "Annotations",
+    "file_id": "1zlZFUnNwuksAUJKwRXiIHkx2_8YrDWgb",
+    "url": "https://drive.google.com/file/d/1zlZFUnNwuksAUJKwRXiIHkx2_8YrDWgb"
+  },
+  {
+    "category": "java",
+    "num": 19,
+    "title": "Exception Handling",
+    "file_id": "1-J8ppiadzHsgBEJuFOCEVFsOFA5GbeGL",
+    "url": "https://drive.google.com/file/d/1-J8ppiadzHsgBEJuFOCEVFsOFA5GbeGL"
+  },
+  {
+    "category": "java",
+    "num": 20,
+    "title": "Operators",
+    "file_id": "1lAMOdu4_4R4uiwE_h0dTaxMmrHwvLfhl",
+    "url": "https://drive.google.com/file/d/1lAMOdu4_4R4uiwE_h0dTaxMmrHwvLfhl"
+  },
+  {
+    "category": "java",
+    "num": 21,
+    "title": "Control Flow Statements",
+    "file_id": "1C8YexhwkW_Z11g4mqbqhNoQROFvK3pqm",
+    "url": "https://drive.google.com/file/d/1C8YexhwkW_Z11g4mqbqhNoQROFvK3pqm"
+  },
+  {
+    "category": "java",
+    "num": 22,
+    "title": "Collections (Part-1) Framework",
+    "file_id": "1gMXDCjmbNrPC_igkTFBoOSfZzUOvCuXy",
+    "url": "https://drive.google.com/file/d/1gMXDCjmbNrPC_igkTFBoOSfZzUOvCuXy"
+  },
+  {
+    "category": "java",
+    "num": 25,
+    "title": "Collections (Part-4) HashMap internals",
+    "file_id": "1gzU1W6i_KW8RLy4vVCFqQX5Wac_3tx3j",
+    "url": "https://drive.google.com/file/d/1gzU1W6i_KW8RLy4vVCFqQX5Wac_3tx3j"
+  },
+  {
+    "category": "java",
+    "num": 28,
+    "title": "Collections (Part-7) Streams",
+    "file_id": "1A2BAJ2o8sMQlizTOgIBe-kLRmgNPI614",
+    "url": "https://drive.google.com/file/d/1A2BAJ2o8sMQlizTOgIBe-kLRmgNPI614"
+  },
+  {
+    "category": "java",
+    "num": 29,
+    "title": "Multithreading (Part-1) Process vs Threads",
+    "file_id": "15GLro4BgRTIFFyMAarBuqO5K_R9C1_ie",
+    "url": "https://drive.google.com/file/d/15GLro4BgRTIFFyMAarBuqO5K_R9C1_ie"
+  },
+  {
+    "category": "java",
+    "num": 30,
+    "title": "Multithreading (Part-2) Thread Creation",
+    "file_id": "1IA_6vfEvBopFBEH5ubOMPEC1I632KaMM",
+    "url": "https://drive.google.com/file/d/1IA_6vfEvBopFBEH5ubOMPEC1I632KaMM"
+  },
+  {
+    "category": "java",
+    "num": 32,
+    "title": "Multithreading (Part-4) Locks and Condition",
+    "file_id": "1LOjJ_lMzOhF2ebY6aiXf2i5voqSM_0sv",
+    "url": "https://drive.google.com/file/d/1LOjJ_lMzOhF2ebY6aiXf2i5voqSM_0sv"
+  },
+  {
+    "category": "java",
+    "num": 33,
+    "title": "Multithreading (Part-5) Lock Free Concurrency",
+    "file_id": "1Zx662N0AwNu2gha5QDn8Ga4D_sxPjxn0",
+    "url": "https://drive.google.com/file/d/1Zx662N0AwNu2gha5QDn8Ga4D_sxPjxn0"
+  },
+  {
+    "category": "java",
+    "num": 34,
+    "title": "Multithreading (Part-6) ThreadPools",
+    "file_id": "1KYoFTnEGJl2dmkIYNdYd4YHoHolWEK-d",
+    "url": "https://drive.google.com/file/d/1KYoFTnEGJl2dmkIYNdYd4YHoHolWEK-d"
+  },
+  {
+    "category": "java",
+    "num": 35,
+    "title": "Multithreading (Part-7) CompletableFuture",
+    "file_id": "16AgWyZ0WwisQUHw4eGwOsOQDOgbO2DO5",
+    "url": "https://drive.google.com/file/d/16AgWyZ0WwisQUHw4eGwOsOQDOgbO2DO5"
+  },
+  {
+    "category": "java",
+    "num": 37,
+    "title": "Multithreading (Part-9) Scheduled ThreadPool",
+    "file_id": "1vZZU-zUBxp603rRsZOmxottQYsA-W443",
+    "url": "https://drive.google.com/file/d/1vZZU-zUBxp603rRsZOmxottQYsA-W443"
+  },
+  {
+    "category": "java",
+    "num": 38,
+    "title": "Virtual thread vs Normal Thread",
+    "file_id": "1hw87Y-up_1wvZL4lRLgv4T2b3k5K8zhZ",
+    "url": "https://drive.google.com/file/d/1hw87Y-up_1wvZL4lRLgv4T2b3k5K8zhZ"
+  },
+  {
+    "category": "java",
+    "num": 39,
+    "title": "Project Lombok",
+    "file_id": "1griShscTmjIpPz1gO1fO-MmvnPPWXtCI",
+    "url": "https://drive.google.com/file/d/1griShscTmjIpPz1gO1fO-MmvnPPWXtCI"
+  },
+  {
+    "category": "java",
+    "num": 40,
+    "title": "Sequenced Collection (Java 21)",
+    "file_id": "1SpDB_VClW_XGCIDH_BfZmKwYkXUDL7yI",
+    "url": "https://drive.google.com/file/d/1SpDB_VClW_XGCIDH_BfZmKwYkXUDL7yI"
+  },
+  {
+    "category": "java",
+    "num": 41,
+    "title": "Sealed Classes and Interfaces (Java 17)",
+    "file_id": "1Vay3BP3eOD--1uECyvE3OGKEAdEvAFQF",
+    "url": "https://drive.google.com/file/d/1Vay3BP3eOD--1uECyvE3OGKEAdEvAFQF"
+  },
+  {
+    "category": "java",
+    "num": 42,
+    "title": "Switch Expression (Java 14)",
+    "file_id": "17jEt2f60PahuVWqU-kipke-itwJCrcA0",
+    "url": "https://drive.google.com/file/d/17jEt2f60PahuVWqU-kipke-itwJCrcA0"
+  },
+  {
+    "category": "java",
+    "num": 46,
+    "title": "Text Blocks (Java 15)",
+    "file_id": "1DkRnpbBtgQQiFCuhWtjteWFWcEBGYS-9",
+    "url": "https://drive.google.com/file/d/1DkRnpbBtgQQiFCuhWtjteWFWcEBGYS-9"
+  },
+  {
+    "category": "java",
+    "num": 47,
+    "title": "Optionals (Java 8-11)",
+    "file_id": "14g1osv4HfhVIZ2rSlHeOW6F3tVkjqGZq",
+    "url": "https://drive.google.com/file/d/14g1osv4HfhVIZ2rSlHeOW6F3tVkjqGZq"
+  },
+  {
+    "category": "java",
+    "num": 48,
+    "title": "Traditional File Handling via Streams",
+    "file_id": "1wJ38eciZvOcftxCabNVBA-DefsaZbd8h",
+    "url": "https://drive.google.com/file/d/1wJ38eciZvOcftxCabNVBA-DefsaZbd8h"
+  },
+  {
+    "category": "java",
+    "num": 49,
+    "title": "NIO (Part1)",
+    "file_id": "1kmCPgztBpKGmA1aw0VZXlg7T3_M_GBk7",
+    "url": "https://drive.google.com/file/d/1kmCPgztBpKGmA1aw0VZXlg7T3_M_GBk7"
+  },
+  {
+    "category": "hld",
+    "num": 1,
+    "title": "Network protocols",
+    "file_id": "1iegvlzgcLJtcGvbjJbPqF4hZaB5u_nrh",
+    "url": "https://drive.google.com/file/d/1iegvlzgcLJtcGvbjJbPqF4hZaB5u_nrh"
+  },
+  {
+    "category": "hld",
+    "num": 2,
+    "title": "CAP Theorem",
+    "file_id": "1rEs7p_Hrgdu57xakTyxgO1k3Zyp3zu-C",
+    "url": "https://drive.google.com/file/d/1rEs7p_Hrgdu57xakTyxgO1k3Zyp3zu-C"
+  },
+  {
+    "category": "hld",
+    "num": 3,
+    "title": "Microservices Patter Part1",
+    "file_id": "1d8R5wkQo9gnCcB_e2DFKCn-TgxWoJMsd",
+    "url": "https://drive.google.com/file/d/1d8R5wkQo9gnCcB_e2DFKCn-TgxWoJMsd"
+  },
+  {
+    "category": "hld",
+    "num": 5,
+    "title": "Scale from O to Million",
+    "file_id": "16FIwh_zZ2nowjFh_vzeUq7nAwoaQct6f",
+    "url": "https://drive.google.com/file/d/16FIwh_zZ2nowjFh_vzeUq7nAwoaQct6f"
+  },
+  {
+    "category": "hld",
+    "num": 6,
+    "title": "Consistent Hashing",
+    "file_id": "1dMSY_fHaKwADw_zeQJfoWQUiHwgwDL6H",
+    "url": "https://drive.google.com/file/d/1dMSY_fHaKwADw_zeQJfoWQUiHwgwDL6H"
+  },
+  {
+    "category": "hld",
+    "num": 8,
+    "title": "Back of the envelope estimation",
+    "file_id": "1AH37a-iSXNquC01PUIi14yDO8jscnaA6",
+    "url": "https://drive.google.com/file/d/1AH37a-iSXNquC01PUIi14yDO8jscnaA6"
+  },
+  {
+    "category": "hld",
+    "num": 10,
+    "title": "SQL vs NOSQL",
+    "file_id": "1CuxKzs00W6meH_6PdF2la8xBkXnyvhcO",
+    "url": "https://drive.google.com/file/d/1CuxKzs00W6meH_6PdF2la8xBkXnyvhcO"
+  },
+  {
+    "category": "hld",
+    "num": 14,
+    "title": "Idempotent POST API",
+    "file_id": "1pzl_Pr0iUD3jyRUtS58Sq9DyCsrr2dmE",
+    "url": "https://drive.google.com/file/d/1pzl_Pr0iUD3jyRUtS58Sq9DyCsrr2dmE"
+  },
+  {
+    "category": "hld",
+    "num": 15,
+    "title": "Design High Availability System",
+    "file_id": "1k7OUopYnC2fpEHDLw-zbFDdyNvoba4mo",
+    "url": "https://drive.google.com/file/d/1k7OUopYnC2fpEHDLw-zbFDdyNvoba4mo"
+  },
+  {
+    "category": "hld",
+    "num": 16,
+    "title": "Distributed Messaging Queue",
+    "file_id": "1kfnXbRlobCeK-U9kT56nyXI-4VY9EBAo",
+    "url": "https://drive.google.com/file/d/1kfnXbRlobCeK-U9kT56nyXI-4VY9EBAo"
+  },
+  {
+    "category": "hld",
+    "num": 17,
+    "title": "Proxy vs Reverse Proxy",
+    "file_id": "18wyJRj2g11NE1Ll1c6GJSiqnhwSao01U",
+    "url": "https://drive.google.com/file/d/18wyJRj2g11NE1Ll1c6GJSiqnhwSao01U"
+  },
+  {
+    "category": "hld",
+    "num": 18,
+    "title": "Load Balancer & Different Algorithms",
+    "file_id": "1dAg77qQ1t9mlHXc1VvO-dZXvaGWnvmaZ",
+    "url": "https://drive.google.com/file/d/1dAg77qQ1t9mlHXc1VvO-dZXvaGWnvmaZ"
+  },
+  {
+    "category": "hld",
+    "num": 19,
+    "title": "Distributed Cache and Caching Strategies",
+    "file_id": "1C7f5kvsWQ45ECA3sR0jgpym1cy96CgR0",
+    "url": "https://drive.google.com/file/d/1C7f5kvsWQ45ECA3sR0jgpym1cy96CgR0"
+  },
+  {
+    "category": "hld",
+    "num": 20,
+    "title": "Handle Distributed Transactions",
+    "file_id": "1kPHF4MMoqc2xFXNXaXHfqqrEDdeU0kLO",
+    "url": "https://drive.google.com/file/d/1kPHF4MMoqc2xFXNXaXHfqqrEDdeU0kLO"
+  },
+  {
+    "category": "hld",
+    "num": 24,
+    "title": "OAuth 2.0",
+    "file_id": "1DTuw_AyH2ByBV8tldT4kha87MXLplXdi",
+    "url": "https://drive.google.com/file/d/1DTuw_AyH2ByBV8tldT4kha87MXLplXdi"
+  },
+  {
+    "category": "hld",
+    "num": 25,
+    "title": "Symmetric & Asymmetric Encryption",
+    "file_id": "13oOxr-aZu0K3u7FqBS1ONOCNENjoWERm",
+    "url": "https://drive.google.com/file/d/13oOxr-aZu0K3u7FqBS1ONOCNENjoWERm"
+  },
+  {
+    "category": "hld",
+    "num": 26,
+    "title": "JWT Explained",
+    "file_id": "1jURIUs6grcQBkXl_mnx3nvZDlpHAqof8",
+    "url": "https://drive.google.com/file/d/1jURIUs6grcQBkXl_mnx3nvZDlpHAqof8"
+  },
+  {
+    "category": "hld",
+    "num": 27,
+    "title": "Thundering Herd",
+    "file_id": "1s_rhkuSserKURoOTwolrnMGifGHd9oKI",
+    "url": "https://drive.google.com/file/d/1s_rhkuSserKURoOTwolrnMGifGHd9oKI"
+  },
+  {
+    "category": "hld",
+    "num": 28,
+    "title": "API Gateway",
+    "file_id": "1eQxotRxC4q1c12uXn7IY4oLcuZgt-iBx",
+    "url": "https://drive.google.com/file/d/1eQxotRxC4q1c12uXn7IY4oLcuZgt-iBx"
+  },
+  {
+    "category": "hld",
+    "num": 33,
+    "title": "Dual Write Problem",
+    "file_id": "14wwKmtzMEgvctlQhiSrLU0gw9fhmMAGn",
+    "url": "https://drive.google.com/file/d/14wwKmtzMEgvctlQhiSrLU0gw9fhmMAGn"
+  }
+]
