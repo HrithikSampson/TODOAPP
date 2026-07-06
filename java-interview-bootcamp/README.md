@@ -28,15 +28,18 @@ mvn test                     # run all tests
 ```
 java-interview-bootcamp/
 ├── README.md                        ← you are here (12 topics)
-├── notes-pdf/                       ← extracted study PDFs (146 files)
+├── notes-pdf/                       ← extracted Google Drive PDFs (146 files)
 │   ├── INDEX.md                     ← master index by category
 │   ├── java/                        ← 34 PDFs (Topics 1–6)
 │   ├── spring-boot/                 ← 20 PDFs (Topics 7–11)
 │   ├── junit/                       ← 15 PDFs (Topic 12)
-│   ├── microservices/               ← reference only (skipped)
-│   ├── lld/                         ← reference only (skipped)
-│   ├── hld/                         ← reference only (skipped)
-│   └── event-driven/                ← reference only (skipped)
+│   └── microservices/, lld/, hld/, event-driven/  ← reference
+├── notes-onenote/                   ← OneNote + Zoho exports (23 PDFs)
+│   ├── INDEX.md                     ← OneNote/Zoho index
+│   ├── java/                        ← Java OneNote + Zoho extras
+│   ├── spring-boot/                 ← Spring Boot full OneNote notebook
+│   ├── junit/                       ← JUnit full OneNote notebook
+│   └── git/, aws/, spring-ai/, ...  ← other OneNote notebooks
 ├── pom.xml                          ← Maven config
 ├── src/main/java/com/bootcamp/
 │   ├── playground/                  ← small Java exercises (Topics 1–6)
@@ -62,9 +65,24 @@ All PDFs from the original index are in **`notes-pdf/`**, organized by category.
 Re-download PDFs anytime:
 ```bash
 cd java-interview-bootcamp/notes-pdf
-python3 build_index.py
-python3 download_pdfs.py
+python3 build_index.py && python3 download_pdfs.py
+
+cd ../notes-onenote
+python3 download_onenote_pdfs.py   # OneNote + Zoho notebook exports
 ```
+
+### OneNote & Zoho notebooks (`notes-onenote/`)
+
+These were **not** in the first download — they are separate links from the same index:
+
+| Folder | What it is |
+|--------|------------|
+| `notes-onenote/spring-boot/` | Full Spring Boot OneNote notebook (all pages) |
+| `notes-onenote/junit/` | Full JUnit5 OneNote notebook |
+| `notes-onenote/java/` | Java modern features OneNote + Multithreading Zoho note |
+| `notes-onenote/microservices/` | Microservices OneNote (reference) |
+
+> OneNote exports are screenshot-based PDFs (OneNote web is interactive). Use the original link in `INDEX.md` to navigate pages inside the notebook.
 
 ---
 
